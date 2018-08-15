@@ -8,3 +8,5 @@ tmp/
 .editorconfig
 bower-material/
 code.material.angularjs.org/
+firebase.json
+.firebaserc
